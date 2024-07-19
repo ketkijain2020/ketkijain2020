@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![tableau](https://img.shields.io/badge/-tableau-21759B?style=flat-square&logo=tableau&logoColor=white)
-- [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-- [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 
 # Let's Connect!
 
