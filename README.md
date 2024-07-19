@@ -2,6 +2,8 @@
 # Hi there, I'm Ketki! 👋
 
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel 📊, PowerBI 📈, SQL 💾, and Python 🐍, along with web development skills acquired through WordPress 🌐, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ketkijain2020t&color=blueviolet)
 # What I Do
 
